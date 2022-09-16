@@ -1,6 +1,11 @@
 /* Fredoka Font */
 @import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Fredoka+One&display=swap');
 
+/* Color Selection --> 
+    White Base: #F8F8F8
+    Golden Yellow: #FFB800
+*/
+
 body {
     font-family: 'Fredoka', sans-serif;
 }
